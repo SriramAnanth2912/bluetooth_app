@@ -1,0 +1,32 @@
+# Android specific
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.idea/
+.DS_Store
+*.apk
+*.ap_
+*.hprof
+
+# Arduino specific
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
+*.o
+*.d
+*.srec
+*.asm
+*.lst
+*.sym
+*.pch
+*.mmap
+
+# Misc
+*.log
+*.tmp
